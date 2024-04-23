@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "12823969738",
+    "firebase_url": "https://thoitiet3-7a1ab-default-rtdb.firebaseio.com",
+    "project_id": "thoitiet3-7a1ab",
+    "storage_bucket": "thoitiet3-7a1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12823969738:android:994e0c5482df9ec6c8d933",
+        "android_client_info": {
+          "package_name": "com.example.thoitiet3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB37tZOikETQ39lUo4m5F1uO8Ng08JuQF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12823969738:android:7fd818bbaa1d042dc8d933",
+        "android_client_info": {
+          "package_name": "com.example.thoitiet33"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB37tZOikETQ39lUo4m5F1uO8Ng08JuQF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
